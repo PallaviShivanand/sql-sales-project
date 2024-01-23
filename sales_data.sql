@@ -1,3 +1,4 @@
+-- Stored Procedure
 use salesdata;
 
 delimiter $
